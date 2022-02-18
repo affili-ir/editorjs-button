@@ -15,7 +15,7 @@
     "build": "webpack --mode production",
     "build:dev": "webpack --mode development --watch"
   },
-  "author": "kaaaaaaaaaaai <kaiogita+npm@gmail.com>",
+  "author": "Affili IR",
   "devDependencies": {
     "@babel/core": "^7.10.2",
     "@babel/preset-env": "^7.10.2",
@@ -31,15 +31,15 @@
     "webpack-cli": "^3.3.11"
   },
   "bugs": {
-    "url": "https://github.com/kaaaaaaaaaaai/editorjs-button/issues"
+    "url": "https://github.com/affili-ir/editorjs-button/issues"
   },
-  "homepage": "https://github.com/kaaaaaaaaaaai/editorjs-button#readme",
+  "homepage": "https://github.com/affili-ir/editorjs-button#readme",
   "directories": {
     "example": "example"
   },
   "dependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kaaaaaaaaaaai/editorjs-button.git"
+    "url": "git+https://github.com/affili-ir/editorjs-button.git"
   }
 }

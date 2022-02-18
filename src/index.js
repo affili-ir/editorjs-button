@@ -117,7 +117,7 @@ export default class AnyButton {
         const _CSS = {
             baseClass: this.api.styles.block,
             hide: "hide",
-            btn: "btn",
+            btn: "anyButton",
             container: "anyButtonContainer",
             input: "anyButtonContainer__input",
 
